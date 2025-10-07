@@ -308,3 +308,7 @@ public class CalculatorInterfata extends JFrame {
 		});
 	}
 }
+
+//git add .
+//git commit -m "descriere modificari"
+//git push
